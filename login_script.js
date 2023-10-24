@@ -1,13 +1,21 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyC4H8vpP-sxYzga1Gt4SU1RCb-3pr5_wEw",
-  authDomain: "testing2-d186a.firebaseapp.com",
-  databaseURL: "https://testing2-d186a-default-rtdb.firebaseio.com",
-  projectId: "testing2-d186a",
-  storageBucket: "testing2-d186a.appspot.com",
-  messagingSenderId: "782022640974",
-  appId: "1:782022640974:web:495cf4e1f6b53b1c894a1f",
-  measurementId: "G-9JFG64NSJB"
+  apiKey: "AIzaSyCDwOJld8MOWfGKMpGHQ9LJ8OjCJlv6sHs",
+
+    authDomain: "quiz--websites.firebaseapp.com",
+
+    databaseURL: "https://quiz--websites-default-rtdb.asia-southeast1.firebasedatabase.app",
+
+    projectId: "quiz--websites",
+
+    storageBucket: "quiz--websites.appspot.com",
+
+    messagingSenderId: "9700361629",
+
+    appId: "1:9700361629:web:58ac86287b06e65a029b74",
+
+    measurementId: "G-QRMCMV18R5"
+
 };
 
 firebase.initializeApp(firebaseConfig);
